@@ -1,4 +1,4 @@
-# 📋 Lista de Tarefas U-NOTION  
+# 📋 Lista de Tarefas 
 
 Um programa em **Java** que implementa uma **Lista de Tarefas** com operações CRUD (Criar, Ler, Atualizar e Deletar), além de recursos extras como **marcar conclusão** e **exibir estatísticas**. O sistema funciona via **terminal**, com menu interativo para o usuário.  
 
